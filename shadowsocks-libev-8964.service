@@ -1,0 +1,25 @@
+#  This file is part of shadowsocks-libev.
+#
+#  Shadowsocks-libev is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 3 of the License, or
+#  (at your option) any later version.
+#
+#  This file is default for Debian packaging. See also
+#  /etc/default/shadowsocks-libev for environment variables.
+
+[Unit]
+Description=Shadowsocks-libev-8964
+Documentation=man:shadowsocks-libev(8)
+After=network.target
+
+[Service]
+Type=simple
+User=nobody
+Group=nogroup
+LimitNOFILE=32768
+ExecStart=/usr/bin/ss-server -s 0.0.0.0 -p 8964 -k FuckGFW -m chacha20-ietf-poly1305 -u --reuse-port --fast-open --no-delay
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
