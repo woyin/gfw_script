@@ -55,3 +55,5 @@
 @@||v7-dy-z.ixigua.com^
 @@||v8-dy-z.ixigua.com^
 @@||v9-dy-z.ixigua.com^
+@@||douyincdn.com^
+@@||ixigua.com^
