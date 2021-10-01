@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX, zoom.us
   - DOMAIN-SUFFIX, github.com
   - DOMAIN-SUFFIX, pmi.org
+  - DOMAIN-SUFFIX, jetbrains.com
