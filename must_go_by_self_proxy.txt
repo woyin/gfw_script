@@ -10,4 +10,4 @@ payload:
   - DOMAIN-SUFFIX, googleusercontent.com
   - DOMAIN-SUFFIX, ggpht.com
   - DOMAIN-SUFFIX, live.net
-  - DOMAIN-SUFFUX, twimg.com
+  - DOMAIN-SUFFIX, twimg.com
