@@ -11,3 +11,7 @@ payload:
   - DOMAIN-SUFFIX, ggpht.com
   - DOMAIN-SUFFIX, live.net
   - DOMAIN-SUFFIX, twimg.com
+  - DOMAIN-SUFFIX, singlelogin.me
+  - DOMAIN-SUFFIX, b-ok.org
+  - DOMAIN-SUFFIX, z-lib.org
+  - DOMAIN-SUFFIX, linkedin.com
