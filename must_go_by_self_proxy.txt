@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX, z-lib.org
   - DOMAIN-SUFFIX, linkedin.com
   - DOMAIN-SUFFIX, raw.githubusercontent.com
+  - DOMAIN-SUFFIX, openai.com
