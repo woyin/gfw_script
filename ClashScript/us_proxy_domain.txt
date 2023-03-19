@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX, zoom.us
+  - DOMAIN-SUFFIX, pmi.org
+  - DOMAIN-SUFFIX, jetbrains.com
+  - DOMAIN-SUFFIX, singlelogin.me
+  - DOMAIN-SUFFIX, b-ok.org
+  - DOMAIN-SUFFIX, z-lib.org
+  - DOMAIN-SUFFIX, linkedin.com
+  - DOMAIN-SUFFIX, openai.com
