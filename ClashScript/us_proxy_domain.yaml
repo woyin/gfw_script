@@ -1,8 +1,14 @@
 payload:
+  - DOMAIN-SUFFIX, youtube.com
+  - DOMAIN-SUFFIX, twitter.com
+  - DOMAIN-SUFFIX, google.com
   - DOMAIN-SUFFIX, zoom.us
+  - DOMAIN-SUFFIX, github.com
   - DOMAIN-SUFFIX, pmi.org
   - DOMAIN-SUFFIX, jetbrains.com
   - DOMAIN-SUFFIX, singlelogin.me
   - DOMAIN-SUFFIX, b-ok.org
   - DOMAIN-SUFFIX, z-lib.org
   - DOMAIN-SUFFIX, linkedin.com
+  - DOMAIN-SUFFIX, brew.sh
+  - DOMAIN-SUFFIX, claude.ai
